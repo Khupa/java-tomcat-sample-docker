@@ -53,3 +53,4 @@ The application will be available on `http://localhost:8080`.
    </build>
    ```
 # java-tomcat-sample-docker
+# docker2_solo
